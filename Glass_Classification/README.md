@@ -49,10 +49,10 @@
 ### 학습곡선 : 랜덤 데이터 사용 모델
 <img src="https://github.com/otter66/Deeplearning_For_Everyone/blob/master/Glass_Classification/images/transformation_model_train.png?raw=true"  width="300">   
 
-### 학습곡선 : 랜덤 데이터 사용 모델, 테스트 학습 구분 모델
+### 학습곡선 : 랜덤 데이터 사용, 테스트 학습 구분 모델
 <img src="https://github.com/otter66/Deeplearning_For_Everyone/blob/master/Glass_Classification/images/transformation_model_train_test.png?raw=true"  width="300">   
 
-### 학습곡선 : 랜덤 데이터 사용 모델, k-fold 학습 모델
+### 학습곡선 : 랜덤 데이터 사용, k-fold 학습 모델
 <img src="https://github.com/otter66/Deeplearning_For_Everyone/blob/master/Glass_Classification/images/transformation_model_kfold_train.png?raw=true"  width="300">   
 
 
